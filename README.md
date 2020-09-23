@@ -1,2 +1,5 @@
-# snake-game-js
-Snake game with vanilla JavaScript.
+# Snake game
+Language: vanilla JavaScript
+
+[View site](https://hungntgrb-snake-game-js.netlify.app/)
+
